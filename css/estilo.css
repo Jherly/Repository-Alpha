@@ -1,0 +1,13 @@
+h1{
+	size: 700px;
+}
+body{
+	background-color:  #D0F597 !important;
+    font-family: Arial Black !important;
+}
+.text-cc{
+	text-align: center !important;
+}
+.nav-link{
+	font-weight: bold;
+}
