@@ -1,0 +1,57 @@
+h1{
+	font-size: 50px !important;
+	font-family: Bernard MT Condensed !important;
+	text-align: center;
+}
+body{
+	background-color: #EDFEEC !important;
+}
+#div1{
+	width: 150px;
+	height: 150px;
+	border: solid 4px;
+	border-color: black;
+	background-color: #5BEB53;
+	border-radius: 50%;
+	display: inline-block;
+}
+#div2{
+	width: 150px;
+	height: 150px;
+	border: solid 4px;
+	border-color: black;
+	background-color: #FD8D31;
+	border-radius: 50%;
+	display: inline-block;
+}
+#div3{
+	width: 150px;
+	height: 150px;
+	border: solid 4px;
+	border-color: black;
+	background-color: #86DCF8;
+	border-radius: 50%;
+	display: inline-block;
+}
+#div4{
+	width: 150px;
+	height: 150px;
+	border: solid 4px;
+	border-color: black;
+	background-color: #FA7777;
+	border-radius: 50%;
+	display: inline-block;
+}
+#AJS{
+	text-align: center;
+	font-family: Bernard MT Condensed;
+}
+#dogs{
+	width: 150px;
+	height: 150px;
+	border: solid 4px;
+	border-color: black;
+	background-color: #FD8D31;
+	border-radius: 50%;
+	display: inline-block;
+}
